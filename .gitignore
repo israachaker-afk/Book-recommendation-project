@@ -1,0 +1,7 @@
+.venv/ 
+.env 
+.gradio/ 
+*.pyc 
+.ipynb_checkpoints/ 
+.env 
+.env
